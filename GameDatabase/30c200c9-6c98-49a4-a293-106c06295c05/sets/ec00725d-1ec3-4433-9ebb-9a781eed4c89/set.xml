@@ -271,5 +271,259 @@
             <property name="CardNumber"                 value="20"/>
             <property name="Illustrator"                value="Logan Feliciano"/>
         </card>
+         <card id="5826d636-3707-4b5e-9617-4d521eb1b181" name="Bear Island Host">
+ <property name="Faction" value="Stark."/>
+ <property name="Type" value="Character"/>
+ <property name="Traits" value="Army. House Mormont."/>
+ <property name="Text" value="Bestow (3). No Attachments. Action: Discard 1 gold from Bear Island Host to choose a House Mormont character. Until the end of the phase, that character does not kneel when declared as an attacker in a (MIL) challenge."/>
+ <property name="Unique" value="No"/>
+ <property name="Loyal" value="No"/>
+ <property name="Cost" value="4"/>
+ <property name="Strength" value="4"/>
+ <property name="Military" value="Yes"/>
+ <property name="Intrigue" value="No"/>
+ <property name="Power" value="Yes"/>
+ <property name="CardNumber" value="21"/>
+ <property name="Illustrator" value="Lukas Banas"/>
+ </card>
+<card id="dba57608-6f6d-49a0-87d7-b1bfb5578f74" name="Marriage Pact">
+ <property name="Faction" value="Stark."/>
+ <property name="Type" value="Attachment"/>
+ <property name="Traits" value="Condition."/>
+ <property name="Text" value="Terminal. Attached character cannot participate in challenges against you. Forced Interupt: when attached character leaves play, sacrifice a character you control."/>
+ <property name="Unique" value="No"/>
+ <property name="Loyal" value="Yes"/>
+ <property name="Cost" value="3"/>
+ <property name="CardNumber" value="22"/>
+ <property name="Illustrator" value="JB Casacop"/>
+ </card>
+<card id="d77f21e3-67ea-42c8-9c9e-54c90f827117" name="Knight of the Reach">
+ <property name="Faction" value="Tyrell."/>
+ <property name="Type" value="Character"/>
+ <property name="Traits" value="Knight."/>
+ <property name="Text" value="Reaction: After you win a challenge in which Knight of the Reach is attacking or defending alone, chose a lady character. That character gains 1 power."/>
+ <property name="Unique" value="No"/>
+ <property name="Loyal" value="No"/>
+ <property name="Cost" value="3"/>
+ <property name="Strength" value="3"/>
+ <property name="Military" value="Yes"/>
+ <property name="Intrigue" value="Yes"/>
+ <property name="Power" value="No"/>
+ <property name="CardNumber" value="23"/>
+ <property name="Illustrator" value="Sebastian Rodriguez"/>
+ </card>
+<card id="991fed86-b21c-4e63-9730-f7b0aa8a75ca" name=""Lord Renleys Ride"">
+ <property name="Faction" value="Tyrell."/>
+ <property name="Type" value="Event"/>
+ <property name="Text" value="Action: Choose a character. Until the end of the phase, that character gets +X STR and gains intimidate. X is the printed STR of the top character in your dead pile."/>
+ <property name="Unique" value="No"/>
+ <property name="Loyal" value="No"/>
+ <property name="Cost" value="1"/>
+ <property name="CardNumber" value="24"/>
+ <property name="Illustrator" value="Serena Malyon"/>
+ </card>
+<card id="2395fa3b-a90b-495b-add6-92fc10067733" name="Gilly">
+ <property name="Faction" value="Night's Watch."/>
+ <property name="Type" value="Character"/>
+ <property name="Traits" value="Wildling."/>
+ <property name="Text" value="Reaction: After you win a challenge in which Knight of the Reach is attacking or defending alone, chose a lady character. That character gains 1 power."/>
+ <property name="Unique" value="Yes"/>
+ <property name="Loyal" value="No"/>
+ <property name="Cost" value="2"/>
+ <property name="Strength" value="1"/>
+ <property name="Military" value="No"/>
+ <property name="Intrigue" value="Yes"/>
+ <property name="Power" value="Yes"/>
+ <property name="CardNumber" value="25"/>
+ <property name="Illustrator" value="Stephane Richard"/>
+ </card>
+<card id="4c5e2ce7-8c46-463d-b111-56918053eef2" name="Guarding the Realm">
+ <property name="Faction" value="Night's Watch."/>
+ <property name="Type" value="Event"/>
+ <property name="Text" value="Marshalling Action: Choose a character with printed cost 3 or lower in an opponent's discard pile, and put it into play under your control. Reaction: After you win a challenge as the defending player, pay 1 gold to return Guarding the Realm from your discard pile to your hand."/>
+ <property name="Unique" value="No"/>
+ <property name="Loyal" value="Yes"/>
+ <property name="Cost" value="2"/>
+ <property name="CardNumber" value="26"/>
+ <property name="Illustrator" value="Alfred Khamidullin"/>
+ </card>
+<card id="c62346fa-25f6-48b7-af29-4c216359bbcc" name="Melisandre">
+ <property name="Faction" value="Baratheon."/>
+ <property name="Type" value="Character"/>
+ <property name="Traits" value="Lady. R'hllor."/>
+ <property name="Text" value="Insight. Reaction: After you win dominance, choose an opponent and look at his or her hand. Then, choose and discard 1 card from that hand. If that card is a character, place it in its owner's dead pile."/>
+ <property name="Unique" value="Yes"/>
+ <property name="Loyal" value="Yes"/>
+ <property name="Cost" value="7"/>
+ <property name="Strength" value="6"/>
+ <property name="Military" value="No"/>
+ <property name="Intrigue" value="Yes"/>
+ <property name="Power" value="Yes"/>
+ <property name="CardNumber" value="27"/>
+ <property name="Illustrator" value="Nicholas Elias"/>
+ </card>
+<card id="f36e6498-3211-4c4b-a725-4e239116dfe5" name="Light of the Lord">
+ <property name="Faction" value="Baratheon."/>
+ <property name="Type" value="Attachment"/>
+ <property name="Traits" value="Blessing. R'hllor."/>
+ <property name="Text" value="[Baratheon] or R'hllor character only. Reaction: After the dominance phase begins, stand attached character and gain 1 gold."/>
+ <property name="Unique" value="No"/>
+ <property name="Loyal" value="No"/>
+ <property name="Cost" value="2"/>
+ <property name="CardNumber" value="28"/>
+ <property name="Illustrator" value="Sergey Glushakov"/>
+ </card>
+<card id="6b03bda9-ba59-4c28-aa4d-8fdfd905e484" name="Polliver">
+ <property name="Faction" value="Lannister."/>
+ <property name="Type" value="Character"/>
+ <property name="Traits" value="Ally."/>
+ <property name="Text" value="Pillage. Reaction: After Polliver discards a character using pillage, return 2 gold from the losing opponent's gold pool to the treasury."/>
+ <property name="Unique" value="Yes"/>
+ <property name="Loyal" value="No"/>
+ <property name="Cost" value="3"/>
+ <property name="Strength" value="3"/>
+ <property name="Military" value="Yes"/>
+ <property name="Intrigue" value="Yes"/>
+ <property name="Power" value="No"/>
+ <property name="CardNumber" value="29"/>
+ <property name="Illustrator" value="David Sondered"/>
+ </card>
+<card id="e0c03792-8c32-4f22-b729-d406ec3eb53f" name="The Hand's Solar">
+ <property name="Faction" value="Lannister."/>
+ <property name="Type" value="Location"/>
+ <property name="Traits" value="King's Landing."/>
+ <property name="Text" value="Action: Kneel The Hand's Solar to choose a character. Until the end of the phase, that character gains an [intrigue] icon."/>
+ <property name="Unique" value="Yes"/>
+ <property name="Loyal" value="No"/>
+ <property name="Cost" value="2"/>
+ <property name="CardNumber" value="30"/>
+ <property name="Illustrator" value="Mark Molnar"/>
+ </card>
+<card id="2e20e218-18e9-404b-93fd-bc7fe268607a" name="Wex Pyke">
+ <property name="Faction" value="Greyjoy."/>
+ <property name="Type" value="Character"/>
+ <property name="Traits" value="Bastard. House Botley."/>
+ <property name="Text" value="Bestow (8). While Wex Pyke is attacking, each character with printed cost X cannot be declared as a defender. X is the number of gold Wex Pyke has. Dominance Action. Move 1 gold from you gold pool to Wex Pyke. (Limit twice per phase.)"/>
+ <property name="Unique" value="Yes"/>
+ <property name="Loyal" value="No"/>
+ <property name="Cost" value="2"/>
+ <property name="Strength" value="2"/>
+ <property name="Military" value="Yes"/>
+ <property name="Intrigue" value="Yes"/>
+ <property name="Power" value="No"/>
+ <property name="CardNumber" value="31"/>
+ <property name="Illustrator" value="Stu Barnes"/>
+ </card>
+<card id="624d8499-c081-47d6-812e-fc2a82e75053" name="Iron Islands Market">
+ <property name="Faction" value="Greyjoy."/>
+ <property name="Type" value="Location"/>
+ <property name="Traits" value="Iron Islands."/>
+ <property name="Text" value="Limited. Marshalling Action: Kneel Iron Islands Market to gain 1 gold. (2 gold instead if an opponent has 8 or more cards in his or her discard pile.)"/>
+ <property name="Unique" value="No"/>
+ <property name="Loyal" value="Yes"/>
+ <property name="Cost" value="2"/>
+ <property name="CardNumber" value="32"/>
+ <property name="Illustrator" value="Stephen Najarian"/>
+ </card>
+<card id="e4b75905-b157-4e99-8518-fa96a4f40f9c" name="Second Sons">
+ <property name="Faction" value="Targaryen."/>
+ <property name="Type" value="Character"/>
+ <property name="Traits" value="Mercenary."/>
+ <property name="Text" value="Bestow (3). Forced Interupt: When the challenges phase ends, sacrifice Second Sons unless you discard 1 gold from it."/>
+ <property name="Unique" value="No"/>
+ <property name="Loyal" value="No"/>
+ <property name="Cost" value="3"/>
+ <property name="Strength" value="6"/>
+ <property name="Military" value="Yes"/>
+ <property name="Intrigue" value="No"/>
+ <property name="Power" value="Yes"/>
+ <property name="CardNumber" value="33"/>
+ <property name="Illustrator" value="Ignacio Bazan Lazcano"/>
+ </card>
+<card id="ff524d0c-bece-476a-96bb-14cc524e2730" name="A Dragon Is No Slave">
+ <property name="Faction" value="Targaryen."/>
+ <property name="Type" value="Event"/>
+ <property name="Text" value="Challenges Action: Choose a character without attachments. That character gets -2 STR until the end of the phase. Reaction: After you win a challenge in which ou control a participating Dragon character ror Daenerys Targaryen, pay 1 gold to return A Dragon Is No Slave from your discard pile to your hand."/>
+ <property name="Unique" value="No"/>
+ <property name="Loyal" value="Yes"/>
+ <property name="Cost" value="2"/>
+ <property name="CardNumber" value="34"/>
+ <property name="Illustrator" value="David Sondered"/>
+ </card>
+<card id="08647438-24bf-41e2-b52b-859e0bc228e3" name="Orphan of the Greenblood">
+ <property name="Faction" value="Martell."/>
+ <property name="Type" value="Character"/>
+ <property name="Traits" value="Ally."/>
+ <property name="Text" value="Bestow (3). Action: Discard 1 gold from Orphan of the Greenblood to return another character you control to its owner's hand."/>
+ <property name="Unique" value="No"/>
+ <property name="Loyal" value="No"/>
+ <property name="Cost" value="2"/>
+ <property name="Strength" value="2"/>
+ <property name="Military" value="No"/>
+ <property name="Intrigue" value="No"/>
+ <property name="Power" value="Yes"/>
+ <property name="CardNumber" value="35"/>
+ <property name="Illustrator" value="Kim Sokul"/>
+ </card>
+<card id="4a42d005-b638-4664-a00a-d8ac58dd9134" name="Scorching Deserts">
+ <property name="Faction" value="Martell."/>
+ <property name="Type" value="Location"/>
+ <property name="Traits" value="Dorne."/>
+ <property name="Text" value="Rection: After a character with fewer than 2 challenge icons is declared as an attacker or defender, kneel and sacrifice Schorching Deserts to remove that character from the challenge."/>
+ <property name="Unique" value="No"/>
+ <property name="Loyal" value="No"/>
+ <property name="Cost" value="1"/>
+ <property name="CardNumber" value="36"/>
+ <property name="Illustrator" value="Sergey Glushakov"/>
+ </card>
+<card id="1632c5a6-3106-4731-a90a-ca9a45e0467b" name="Black Walder">
+ <property name="Faction" value="Neutral."/>
+ <property name="Type" value="Character"/>
+ <property name="Traits" value="House Frey."/>
+ <property name="Text" value="Bestow (3). During the third challenge you initiate each phase, Black Walder gains renown and gets +2 STR for each gold he has."/>
+ <property name="Unique" value="Yes"/>
+ <property name="Loyal" value="No"/>
+ <property name="Cost" value="4"/>
+ <property name="Strength" value="3"/>
+ <property name="Military" value="Yes"/>
+ <property name="Intrigue" value="Yes"/>
+ <property name="Power" value="No"/>
+ <property name="CardNumber" value="37"/>
+ <property name="Illustrator" value="Josh Hernaiz"/>
+ </card>
+<card id="f60c965f-ebbc-46cd-b7e2-d68376998674" name="Great Hall">
+ <property name="Faction" value="Neutral."/>
+ <property name="Type" value="Location"/>
+ <property name="Traits" value="Westeros."/>
+ <property name="Text" value="Limited. Marshaling Action: Kneel Great Hall to reduce the cost of the next unique character you marshall this phase by 1. (By 2 instead if that character's printed cost is 6 or higher.)"/>
+ <property name="Unique" value="No"/>
+ <property name="Loyal" value="No"/>
+ <property name="Cost" value="1"/>
+ <property name="CardNumber" value="38"/>
+ <property name="Illustrator" value="Mark Molnar"/>
+ </card>
+<card id="79588983-c3b6-4e36-a90c-1250bedb6b24" name=""The Dornishmans Wife"">
+ <property name="Faction" value="Neutral."/>
+ <property name="Type" value="Event"/>
+ <property name="Text" value="Action: Choose an opponent. If that player has a higher power total than you, gain 2 gold. If that player has more cards in his or her hand than you, gain 1 power for your faction. If that player controls more characters than you, draw 1 card."/>
+ <property name="Unique" value="No"/>
+ <property name="Loyal" value="No"/>
+ <property name="Cost" value="1"/>
+ <property name="CardNumber" value="39"/>
+ <property name="Illustrator" value="Serena Malyon"/>
+ </card>
+<card id="1c462e6b-276d-440d-b846-8a11cd5f0a6d" name="The Annals of Castle Black" size="HorizontalCards">
+ <property name="Faction" value="Neutral."/>
+ <property name="Type" value="Plot"/>
+ <property name="Traits" value="Legacy."/>
+ <property name="Text" value="Each player may play events in his or her discard pile as if they were in his or her hand. Forced Reaction: After an event is placed in a discard pile, remove it from the game."/>
+ <property name="Loyal" value="No"/>
+ <property name="PlotGoldIncome" value="4"/>
+ <property name="PlotInitiative" value="4"/>
+ <property name="PlotClaim" value="1"/>
+ <property name="PlotReserve" value="7"/>
+ <property name="CardNumber" value="40"/>
+ <property name="Illustrator" value="Serena Malyon"/>
+ </card>
     </cards>
 </set>
