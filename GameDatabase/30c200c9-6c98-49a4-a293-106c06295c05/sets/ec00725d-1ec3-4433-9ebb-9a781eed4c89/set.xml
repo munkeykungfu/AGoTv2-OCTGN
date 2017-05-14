@@ -326,7 +326,7 @@
  <property name="Faction" value="Night's Watch."/>
  <property name="Type" value="Character"/>
  <property name="Traits" value="Wildling."/>
- <property name="Text" value="Reaction: After you win a challenge in which Knight of the Reach is attacking or defending alone, chose a lady character. That character gains 1 power."/>
+ <property name="Text" value="Bestow (3). Action: Discard 1 gold from Gilly to choose a Steward character you control. Until the end of the phase, that character gains stealth."/>
  <property name="Unique" value="Yes"/>
  <property name="Loyal" value="No"/>
  <property name="Cost" value="2"/>
